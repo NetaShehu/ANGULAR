@@ -1,0 +1,50 @@
+nav a {
+  padding: 1rem;
+  text-decoration: black;
+  margin-top: 0px;
+  display: inline-block;
+  background-color: #e8e8e8;
+  color: #3d3d3d;
+  border-radius: 4px;
+  font-size: xx-large;
+}
+
+nav a:hover {
+  color: khaki;
+  background-color: #42545C;
+}
+nav a.active {
+  background-color: coral;
+}
+
+.mat-card-image {
+  object-fit: cover; /*this makes the image in src fit to the size specified below*/
+  box-sizing: content-box;
+  height: 300px;
+}
+.mat-display-2 {
+  background-color: white;
+  font-family: "Fira Code Light", serif;
+  align-content: center;
+}
+.mat-card-title {
+  height: 30px;
+  background-color: white;
+  font-size: xx-large;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+}
+.hot-header-image {
+  background-image: url('https://media.istockphoto.com/photos/many-cups-of-coffee-on-wooden-table-picture-id504333530');
+  background-size: cover;
+  width: 100px;
+}
+.bar-header-image {
+  background-image: url('https://i.dietdoctor.com/wp-content/uploads/2017/04/LC-Drinks_edited2_2400.jpg?auto=compress%2Cformat&w=800&h=922&fit=crop');
+  background-size: cover;
+  width: 100px;
+}
+.other-header-image {
+  background-image: url('https://media.istockphoto.com/photos/beer-and-wine-picture-id177521527?k=20&m=177521527&s=612x612&w=0&h=EtTTrpodFbgy9froI_EGGJZGQdCRjBrL-Fzb36QD1Vg=');
+  background-size: cover;
+  width: 100px;
+}

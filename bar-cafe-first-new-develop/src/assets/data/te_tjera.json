@@ -1,0 +1,11 @@
+
+
+[
+  {"id": 1, "name": "Vodka", "price": 250},
+  {"id": 2, "name": "Amaro", "price": 250},
+  {"id": 3, "name": "Vere", "price": 150},
+  {"id": 4, "name": "Kriko e Vogel", "price": 80},
+  {"id": 5, "name": "Whiskey", "price": 300},
+  {"id": 6, "name": "Ponc", "price": 80}
+
+]
